@@ -1,5 +1,8 @@
-cd bovcontrol-mobile
+
+# Instruções 
+
+cd bovcontrol-mobile 
 npm install 
 npx expo run:android
 
-› Press a │ open Android
+Press a │ open Android
